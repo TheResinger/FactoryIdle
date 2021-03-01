@@ -10,6 +10,7 @@ An idle game based on a indie game called Factorio
 - [ ] Dynamically Generate the cards on the production zone for each unlocked tech
 - [ ] Implement side bar that lets the user change page between the different elements of the game (Production, Research, etc...)
 - [x] Figure out if im allowed to use the icons from the game for this if it isint monetized [Seems like other tools use the sprites with no issue, will need to follow up with this one.]
+- [ ] Figure out how to seperate sprites from a sprite sheet. [ Seems like you can do this directly in css. ]
 
 ## Available Scripts
 
